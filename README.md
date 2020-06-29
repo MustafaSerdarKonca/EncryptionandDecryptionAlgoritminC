@@ -1,1 +1,1 @@
-# Encryption-and-Decryption-Algoritm-in-C-
+# Encryption and Decryption Algoritm in C
